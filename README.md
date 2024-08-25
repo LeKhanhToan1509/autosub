@@ -27,8 +27,8 @@ Start Warp to ensure a secure and fast connection.
 In Git Bash, navigate to the directory where your project is located:
 
 ```bash
-```
 cd /path/to/your/project
+```
 Replace `/path/to/your/project` with the actual path to your project.
 
 ### 4. Run the Script
