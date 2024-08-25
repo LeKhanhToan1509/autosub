@@ -16,5 +16,3 @@ def read_data():
 def isvalid_account(account):
     return client['Autosub_PTIT']['accounts'].find_one({"account": account}) != None
 
-if __name__ == "__main__":
-    read_data()

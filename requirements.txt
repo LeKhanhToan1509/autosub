@@ -8,3 +8,4 @@ pymongo
 python-dotenv
 fastapi 
 uvicorn
+pybase64

@@ -16,7 +16,6 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE, r: 
     if (len(parts) > 3 ):
         await context.bot.send_message(chat_id=chat_id, text="Sai cú pháp. Vui lòng nhập đúng cú pháp lệnh.")
         await context.bot.send_message(chat_id=chat_id, text="Gõ 'help' để xem danh sách các lệnh.")
-        return
     else:
         command = text_received.split()[0]
         if command == "addacc":
@@ -66,9 +65,9 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE, r: 
             await context.bot.send_message(chat_id=chat_id, text="Các lệnh:\n- addacc [tài khoản] [mật khẩu]: Thêm tài khoản vào hệ thống.\n- delacc [tài khoản]: Xóa tài khoản khỏi hệ thống.\n- check [tài khoản] [mật khẩu]: Kiểm tra số câu hỏi chưa làm của tài khoản.\n- help: Hiển thị danh sách các lệnh.")
 
 def main():
-    app = ApplicationBuilder().token("7284238555:AAFs0EQt7lK1dFAAWKi5mk6Tz5lU1pbWLKE").build()
+    telegram_token = os.getenv("TELEGRAM_BOT_TOKEN")
+    app = ApplicationBuilder().token(telegram_token).build()
     r = redis.Redis(host='localhost', port=6379, decode_responses=True)
-    
     app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, lambda update, context: handle_message(update, context, r)))
 
     app.run_polling()
