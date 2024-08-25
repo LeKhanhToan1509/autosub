@@ -1,12 +1,17 @@
-import os
 import requests
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException, File, UploadFile, Form
 from typing import List, Tuple
 from pydantic import BaseModel
+import requests
+from pymongo import MongoClient
+from bson.objectid import ObjectId
+import time 
+import os
 
 load_dotenv()
+DOMAIN = os.getenv("DOMAIN")
 
 app = FastAPI()
 
@@ -122,43 +127,94 @@ def get_files_not_done(xsrf_token: str, ptit_code_session: str, limit: int = 20)
                 break
     return arr
 
-
-
-
-def submit_file(session, file_path: str, question_code: str, compiler_id: str, xsrf_token: str, ptit_code_session: str):
-    submit_page_url = f'https://code.ptit.edu.vn/student/question/{question_code}'
+def login_and_submit_files(username: str, password: str):
+    session = requests.Session()
+    login_url = 'https://code.ptit.edu.vn/login'
     submit_url = 'https://code.ptit.edu.vn/student/solution'
-
-    headers = {
-        'Cookie': f'XSRF-TOKEN={xsrf_token}; ptit_code_session={ptit_code_session}'
-    }
-
-    submit_page = session.get(submit_page_url, headers=headers)
-    if submit_page.status_code != 200:
-        return {"error": f"Failed to load submit page for {question_code}: {submit_page.status_code}"}
     
-    submit_soup = BeautifulSoup(submit_page.text, 'html.parser')
-    submit_csrf_token_input = submit_soup.find('input', {'name': '_token'})
-    if not submit_csrf_token_input:
-        return {"error": f"Submit CSRF token not found on submit page for {question_code}."}
-    
-    submit_csrf_token = submit_csrf_token_input['value']
-
-    with open(file_path, 'rb') as file:
-        file_content = file.read()
-        files = {
-            'code_file': (file_path.split('/')[-1], file_content, 'application/octet-stream')
+    try:
+        login_page = session.get(login_url)
+        if login_page.status_code != 200:
+            raise Exception(f"Failed to load login page: {login_page.status_code}")
+        
+        login_soup = BeautifulSoup(login_page.text, 'html.parser')
+        csrf_token_input = login_soup.find('input', {'name': '_token'})
+        if not csrf_token_input:
+            raise Exception("CSRF token not found on login page.")
+        csrf_token = csrf_token_input['value']
+        
+        login_data = {
+            '_token': csrf_token,
+            'username': username,
+            'password': password
         }
-        data = {
-            '_token': submit_csrf_token,
-            'question': question_code,
-            'compiler': compiler_id
-        }
-        submit_response = session.post(submit_url, data=data, files=files, headers=headers)
-        if submit_response.status_code != 200:
-            return {"error": f"Failed to submit file for {question_code}: {submit_response.status_code}"}
-    
-    return {"success": f"File for {question_code} submitted successfully!"}
+        
+        login_response = session.post(login_url, data=login_data)
+        if login_response.status_code != 200:
+            raise Exception("Login failed. Please check your credentials.")
+        
+        print("Login successful!")
+        
+        client = MongoClient('mongodb://localhost:27017/')
+        db = client['Autosub_PTIT']
+        collection_questions = db['questionsJava']
+        collection_files = db['fs.chunks']
+        
+        url = f"{DOMAIN}/not-done-files?username={username}&password={password}"
+        response = requests.get(url)
+        if response.status_code != 200:
+            raise Exception(f"Failed to fetch files: {response.status_code}")
+        
+        json_data = response.json()
+        
+        for item in json_data['files']:
+            data = collection_questions.find_one({'alias': item})
+            if not data:
+                print(f"No data found for alias: {item}")
+                continue
+
+            file_id = data['file_id']
+            name = data['name']
+            file = collection_files.find_one({'files_id': ObjectId(file_id)})
+            if not file:
+                print(f"No file found for file_id: {file_id}")
+                continue
+            
+            file_content = file['data']
+            
+            submit_page_url = f'https://code.ptit.edu.vn/student/question/{item}'
+            submit_page = session.get(submit_page_url)
+            if submit_page.status_code != 200:
+                raise Exception(f"Failed to load submit page: {submit_page.status_code}")
+            
+            submit_soup = BeautifulSoup(submit_page.text, 'html.parser')
+            submit_csrf_token_input = submit_soup.find('input', {'name': '_token'})
+            if not submit_csrf_token_input:
+                raise Exception("Submit CSRF token not found on submit page.")
+            submit_csrf_token = submit_csrf_token_input['value']
+            
+            files = {
+                'code_file': (name, file_content, 'application/octet-stream')
+            }
+            data = {
+                '_token': submit_csrf_token,
+                'question': item,
+                'compiler': '3' 
+            }
+            submit_response = session.post(submit_url, data=data, files=files)
+            if submit_response.status_code != 200:
+                raise Exception(f"Failed to submit file: {submit_response.status_code}")
+            
+            result_soup = BeautifulSoup(submit_response.text, 'html.parser')
+            result_message = result_soup.find('div', {'class': 'alert'})
+            if result_message:
+                print(result_message.text.strip())
+            else:
+                print("File submitted successfully!")
+            time.sleep(5)
+                
+    except Exception as e:
+        print(f"An error occurred: {e}")
 
 @app.get("/")
 def read_root():
@@ -171,7 +227,7 @@ def not_done_questions(username: str, password: str):
     return {"not_done": total_not_done_questions}
     
 @app.get("/not-done-files")
-def not_done_files(username: str, password: str, limit: int = 20):
+def not_done_files(username: str, password: str, limit: int = 30):
     xsrf_token, ptit_code_session = login(username, password)
     files = get_files_not_done(xsrf_token, ptit_code_session, limit)
     return {"files": files}
@@ -185,13 +241,6 @@ def check_account_endpoint(username: str, password: str):
         raise HTTPException(status_code=401, detail="Login failed")
 
 @app.post("/submit-files")
-def submit_files(username: str, password: str, files: List[FileData]):
-    xsrf_token, ptit_code_session = login(username, password)
-    session = requests.Session()
-
-    results = []
-    for file_info in files:
-        result = submit_file(session, file_info.file_path, file_info.question_code, file_info.compiler_id, xsrf_token, ptit_code_session)
-        results.append(result)
-
-    return results
+def login_and_submit_files_endpoint(username: str, password: str):
+    login_and_submit_files(username, password)
+    return {"message": "Files submitted successfully!"}

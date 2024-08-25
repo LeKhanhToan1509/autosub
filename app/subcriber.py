@@ -4,7 +4,6 @@ import asyncio
 from pymongo import MongoClient
 import os
 import requests
-import database
 from dotenv import load_dotenv
 load_dotenv()
 
