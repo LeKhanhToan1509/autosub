@@ -1,3796 +1,4088 @@
 [{
   "_id": {
-    "$oid": "66c9724ea207258c32fcc681"
+    "$oid": "66cafff4129bbbee8777fafc"
   },
   "filename": "Hello World.java",
+  "alias": "CHELLO",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.025Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "119"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.014Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc684"
+    "$oid": "66cafff5129bbbee8777faff"
   },
   "filename": "HELLO FILE.java",
+  "alias": "HELLOFILE",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.073Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "469"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.033Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc687"
+    "$oid": "66cafff5129bbbee8777fb02"
   },
   "filename": "HỌC PHÍ.java",
+  "alias": "HELLOJAR",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.096Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1809"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.046Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc68a"
+    "$oid": "66cafff5129bbbee8777fb05"
   },
   "filename": "HÌNH CHỮ NHẬT.java",
+  "alias": "J01001",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.114Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "450"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.060Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc68d"
+    "$oid": "66cafff5129bbbee8777fb08"
   },
   "filename": "TÍNH TỔNG.java",
+  "alias": "J01002",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.130Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "351"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.072Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc690"
+    "$oid": "66cafff5129bbbee8777fb0b"
   },
   "filename": "GIẢI PHƯƠNG TRÌNH BẬC NHẤT.java",
+  "alias": "J01003",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.148Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "428"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.084Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc693"
+    "$oid": "66cafff5129bbbee8777fb0e"
   },
   "filename": "SỐ NGUYÊN TỐ.java",
+  "alias": "J01004",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.165Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "652"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.094Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc696"
+    "$oid": "66cafff5129bbbee8777fb11"
   },
   "filename": "CHIA TAM GIÁC.java",
+  "alias": "J01005",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.181Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "563"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.105Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc699"
+    "$oid": "66cafff5129bbbee8777fb14"
   },
   "filename": "TÍNH SỐ FIBONACCI.java",
+  "alias": "J01006",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.196Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "430"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.114Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc69c"
+    "$oid": "66cafff5129bbbee8777fb17"
   },
   "filename": "KIỂM TRA SỐ FIBONACCI.java",
+  "alias": "J01007",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.212Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "674"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.124Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc69f"
+    "$oid": "66cafff5129bbbee8777fb1a"
   },
   "filename": "PHÂN TÍCH THỪA SỐ NGUYÊN TỐ.java",
+  "alias": "J01008",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.228Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "789"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.133Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc6a2"
+    "$oid": "66cafff5129bbbee8777fb1d"
   },
   "filename": "TỔNG GIAI THỪA.java",
+  "alias": "J01009",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.244Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "743"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.142Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc6a5"
+    "$oid": "66cafff5129bbbee8777fb20"
   },
   "filename": "CẮT ĐÔI.java",
+  "alias": "J01010",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.263Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "980"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.150Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc6a8"
+    "$oid": "66cafff5129bbbee8777fb23"
   },
-  "filename": "BỘI SỐ CHUNG",
+  "filename": "BỘI SỐ CHUNG - ƯỚC SỐ CHUNG.java",
+  "alias": "J01011",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.279Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "565"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.157Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc6ab"
+    "$oid": "66cafff5129bbbee8777fb26"
   },
   "filename": "ƯỚC SỐ CHIA HẾT CHO 2.java",
+  "alias": "J01012",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.297Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "696"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.165Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc6ae"
+    "$oid": "66cafff5129bbbee8777fb29"
   },
-  "filename": "TỔNG ƯỚC SỐ",
+  "filename": "TỔNG ƯỚC SỐ - 1.java",
+  "alias": "J01013",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.315Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "770"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.172Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc6b1"
+    "$oid": "66cafff5129bbbee8777fb2c"
   },
   "filename": "ƯỚC SỐ NGUYÊN TỐ LỚN NHẤT.java",
+  "alias": "J01014",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.332Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "684"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.179Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc6b4"
+    "$oid": "66cafff5129bbbee8777fb2f"
   },
   "filename": "CHỮ SỐ 4 VÀ CHỮ SỐ 7.java",
+  "alias": "J01016",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.352Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "448"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.186Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc6b7"
+    "$oid": "66cafff5129bbbee8777fb32"
   },
   "filename": "SỐ LIỀN KỀ.java",
+  "alias": "J01017",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.369Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "535"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.194Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc6ba"
+    "$oid": "66cafff5129bbbee8777fb35"
   },
   "filename": "SỐ KHÔNG LIỀN KỀ.java",
+  "alias": "J01018",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.387Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "640"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.200Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc6bd"
+    "$oid": "66cafff5129bbbee8777fb38"
   },
   "filename": "ĐẦY ĐỦ CÁC CHỮ SỐ.java",
+  "alias": "J01020",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.406Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "696"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.207Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc6c0"
+    "$oid": "66cafff5129bbbee8777fb3b"
   },
   "filename": "TÍNH LŨY THỪA.java",
+  "alias": "J01021",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.424Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "547"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.215Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc6c3"
+    "$oid": "66cafff5129bbbee8777fb3e"
   },
   "filename": "XÂU NHỊ PHÂN.java",
+  "alias": "J01022",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.442Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "712"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.223Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc6c6"
+    "$oid": "66cafff5129bbbee8777fb41"
   },
   "filename": "TOÁN LỚP BA.java",
+  "alias": "J01023",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.464Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "2019"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.231Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc6c9"
+    "$oid": "66cafff5129bbbee8777fb44"
   },
   "filename": "SỐ TAM PHÂN.java",
+  "alias": "J01024",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.486Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "502"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.239Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc6cc"
+    "$oid": "66cafff5129bbbee8777fb47"
   },
   "filename": "HÌNH VUÔNG.java",
+  "alias": "J01025",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.508Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "823"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.247Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc6cf"
+    "$oid": "66cafff5129bbbee8777fb4a"
   },
   "filename": "SỐ CHÍNH PHƯƠNG.java",
+  "alias": "J01026",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.531Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "435"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.255Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc6d2"
+    "$oid": "66cafff5129bbbee8777fb4d"
   },
   "filename": "MẢNG ĐỐI XỨNG.java",
+  "alias": "J02004",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.562Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "608"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.263Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc6d5"
+    "$oid": "66cafff5129bbbee8777fb50"
   },
   "filename": "GIAO CỦA HAI DÃY SỐ.java",
+  "alias": "J02005",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.585Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "868"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.272Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc6d8"
+    "$oid": "66cafff5129bbbee8777fb53"
   },
   "filename": "HỢP CỦA HAI DÃY SỐ.java",
+  "alias": "J02006",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.606Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "882"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.281Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc6db"
+    "$oid": "66cafff5129bbbee8777fb56"
   },
   "filename": "ĐẾM SỐ LẦN XUẤT HIỆN.java",
+  "alias": "J02007",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.629Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "972"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.288Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc6de"
+    "$oid": "66cafff5129bbbee8777fb59"
   },
   "filename": "BỘI SỐ NHỎ NHẤT CỦA N SỐ NGUYÊN DƯƠNG ĐẦU TIÊN.java",
+  "alias": "J02008",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.653Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "583"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.295Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc6e1"
+    "$oid": "66cafff5129bbbee8777fb5c"
   },
   "filename": "XẾP HÀNG.java",
+  "alias": "J02009",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.682Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "887"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.303Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc6e4"
+    "$oid": "66cafff5129bbbee8777fb5f"
   },
   "filename": "SẮP XẾP ĐỔI CHỖ TRỰC TIẾP.java",
+  "alias": "J02010",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.707Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "839"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.310Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc6e7"
+    "$oid": "66cafff5129bbbee8777fb62"
   },
   "filename": "SẮP XẾP CHỌN.java",
+  "alias": "J02011",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.734Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "905"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.318Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc6ea"
+    "$oid": "66cafff5129bbbee8777fb65"
   },
   "filename": "SẮP XẾP CHÈN.java",
+  "alias": "J02012",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.759Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "677"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.328Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc6ed"
+    "$oid": "66cafff5129bbbee8777fb68"
   },
   "filename": "SẮP XẾP NỔI BỌT.java",
+  "alias": "J02013",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.782Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1111"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.336Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc6f0"
+    "$oid": "66cafff5129bbbee8777fb6b"
   },
   "filename": "ĐIỂM CÂN BẰNG.java",
+  "alias": "J02014",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.803Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "749"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.343Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc6f3"
+    "$oid": "66cafff5129bbbee8777fb6e"
   },
   "filename": "BỘ BA SỐ PYTAGO.java",
+  "alias": "J02016",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.823Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "974"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.350Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc6f6"
+    "$oid": "66cafff5129bbbee8777fb71"
   },
   "filename": "THU GỌN DÃY SỐ.java",
+  "alias": "J02017",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.844Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "571"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.358Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc6f9"
+    "$oid": "66cafff5129bbbee8777fb74"
   },
-  "filename": "TỔNG ƯỚC SỐ",
+  "filename": "TỔNG ƯỚC SỐ - 2.java",
+  "alias": "J02019",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.865Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1127"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.370Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc6fc"
+    "$oid": "66cafff5129bbbee8777fb77"
   },
-  "filename": "LIỆT KÊ TỔ HỢP",
+  "filename": "LIỆT KÊ TỔ HỢP - 1.java",
+  "alias": "J02020",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.885Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "782"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.381Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc6ff"
+    "$oid": "66cafff5129bbbee8777fb7a"
   },
-  "filename": "LIỆT KÊ TỔ HỢP",
+  "filename": "LIỆT KÊ TỔ HỢP - 2.java",
+  "alias": "J02021",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.903Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "776"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.392Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc702"
+    "$oid": "66cafff5129bbbee8777fb7d"
   },
   "filename": "SỐ XA CÁCH.java",
+  "alias": "J02022",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.920Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "943"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.403Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc705"
+    "$oid": "66cafff5129bbbee8777fb80"
   },
   "filename": "LỰA CHỌN THAM LAM.java",
+  "alias": "J02023",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.939Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "863"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.415Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc708"
+    "$oid": "66cafff5129bbbee8777fb83"
   },
   "filename": "DÃY CON CÓ TỔNG LẺ.java",
+  "alias": "J02024",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.959Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1283"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.427Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc70b"
+    "$oid": "66cafff5129bbbee8777fb86"
   },
   "filename": "DÃY CON CÓ TỔNG NGUYÊN TỐ.java",
+  "alias": "J02025",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.978Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1405"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.441Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc70e"
+    "$oid": "66cafff5129bbbee8777fb89"
   },
   "filename": "DÃY CON CÓ K PHẦN TỬ TĂNG DẦN.java",
+  "alias": "J02026",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:09.995Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "800"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.453Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc711"
+    "$oid": "66cafff6129bbbee8777fb8c"
   },
   "filename": "KHOẢNG CÁCH NHỎ HƠN K.java",
+  "alias": "J02027",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.013Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "958"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.467Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc714"
+    "$oid": "66cafff6129bbbee8777fb8f"
   },
   "filename": "DÃY CON LIÊN TIẾP TỔNG BẰNG K.java",
+  "alias": "J02028",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.034Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1089"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.480Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc717"
+    "$oid": "66cafff6129bbbee8777fb92"
   },
   "filename": "ĐẢO DẤU.java",
+  "alias": "J02033",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.053Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "748"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.494Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc71a"
+    "$oid": "66cafff6129bbbee8777fb95"
   },
   "filename": "BỔ SUNG DÃY SỐ.java",
+  "alias": "J02034",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.074Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "672"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.507Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc71d"
+    "$oid": "66cafff6129bbbee8777fb98"
   },
   "filename": "QUAY PHẢI.java",
+  "alias": "J02035",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.096Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "706"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.520Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc720"
+    "$oid": "66cafff6129bbbee8777fb9b"
   },
   "filename": "LỰA CHỌN THAM LAM.java",
+  "alias": "J020356",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.118Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "853"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.533Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc723"
+    "$oid": "66cafff6129bbbee8777fb9e"
   },
   "filename": "ƯỚC SỐ CHUNG LỚN NHẤT.java",
+  "alias": "J02036",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.137Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "906"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.547Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc726"
+    "$oid": "66cafff6129bbbee8777fba1"
   },
   "filename": "DÃY ƯU THẾ.java",
+  "alias": "J02037",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.157Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "790"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.562Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc729"
+    "$oid": "66cafff6129bbbee8777fba4"
   },
   "filename": "IN MA TRẬN.java",
+  "alias": "J02101",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.175Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "828"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.576Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc72c"
+    "$oid": "66cafff6129bbbee8777fba7"
   },
   "filename": "MA TRẬN XOẮN ỐC TĂNG DẦN.java",
+  "alias": "J02102",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.195Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1308"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.591Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc72f"
+    "$oid": "66cafff6129bbbee8777fbaa"
   },
   "filename": "TÍCH MA TRẬN VỚI CHUYỂN VỊ CỦA NÓ.java",
+  "alias": "J02103",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.214Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1385"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.607Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc732"
+    "$oid": "66cafff6129bbbee8777fbad"
   },
   "filename": "DANH SÁCH CẠNH.java",
+  "alias": "J02104",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.232Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "483"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.622Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc735"
+    "$oid": "66cafff6129bbbee8777fbb0"
   },
   "filename": "DANH SÁCH KỀ.java",
+  "alias": "J02105",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.250Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "513"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.636Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc738"
+    "$oid": "66cafff6129bbbee8777fbb3"
   },
   "filename": "MA TRẬN NHỊ PHÂN.java",
+  "alias": "J02106",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.267Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "440"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.651Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc73b"
+    "$oid": "66cafff6129bbbee8777fbb6"
   },
-  "filename": "CHUẨN HÓA XÂU HỌ TÊN",
+  "filename": "CHUẨN HÓA XÂU HỌ TÊN - 1.java",
+  "alias": "J03004",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.284Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "852"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.669Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc73e"
+    "$oid": "66cafff6129bbbee8777fbb9"
   },
-  "filename": "CHUẨN HÓA XÂU HỌ TÊN",
+  "filename": "CHUẨN HÓA XÂU HỌ TÊN - 2.java",
+  "alias": "J03005",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.303Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1143"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.685Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc741"
+    "$oid": "66cafff6129bbbee8777fbbc"
   },
   "filename": "SỐ ĐẸP 1.java",
+  "alias": "J03006",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.320Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "575"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.703Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc744"
+    "$oid": "66cafff6129bbbee8777fbbf"
   },
   "filename": "SỐ ĐẸP 2.java",
+  "alias": "J03007",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.338Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "582"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.721Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc747"
+    "$oid": "66cafff6129bbbee8777fbc2"
   },
   "filename": "SỐ ĐẸP 3.java",
+  "alias": "J03008",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.356Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "593"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.737Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc74a"
+    "$oid": "66cafff6129bbbee8777fbc5"
   },
   "filename": "TẬP TỪ RIÊNG CỦA HAI XÂU.java",
+  "alias": "J03009",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.377Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1025"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.752Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc74d"
+    "$oid": "66cafff6129bbbee8777fbc8"
   },
   "filename": "ĐỊA CHỈ EMAIL.java",
+  "alias": "J03010",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.395Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "990"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.768Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc750"
+    "$oid": "66cafff6129bbbee8777fbcb"
   },
   "filename": "ƯỚC SỐ CHUNG LỚN NHẤT CỦA SỐ NGUYÊN LỚN.java",
+  "alias": "J03011",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.414Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "523"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.784Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc753"
+    "$oid": "66cafff6129bbbee8777fbce"
   },
-  "filename": "TỔNG SỐ NGUYÊN LỚN",
+  "filename": "TỔNG SỐ NGUYÊN LỚN - 1.java",
+  "alias": "J03012",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.430Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "382"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.800Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc756"
+    "$oid": "66cafff6129bbbee8777fbd1"
   },
-  "filename": "HIỆU SỐ NGUYÊN LỚN",
+  "filename": "HIỆU SỐ NGUYÊN LỚN - 1.java",
+  "alias": "J03013",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.447Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "585"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.816Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc759"
+    "$oid": "66cafff6129bbbee8777fbd4"
   },
-  "filename": "TỔNG SỐ NGUYÊN LỚN",
+  "filename": "TỔNG SỐ NGUYÊN LỚN - 2.java",
+  "alias": "J03014",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.464Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "371"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.832Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc75c"
+    "$oid": "66cafff6129bbbee8777fbd7"
   },
-  "filename": "HIỆU SỐ NGUYÊN LỚN ",
+  "filename": "HIỆU SỐ NGUYÊN LỚN  - 2.java",
+  "alias": "J03015",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.484Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "435"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.849Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc75f"
+    "$oid": "66cafff6129bbbee8777fbda"
   },
   "filename": "CHIA HẾT CHO 11.java",
+  "alias": "J03016",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.502Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "439"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.866Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc762"
+    "$oid": "66cafff6129bbbee8777fbdd"
   },
   "filename": "LOẠI BỎ “100”.java",
+  "alias": "J03017",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.522Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1128"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.883Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc765"
+    "$oid": "66cafff6129bbbee8777fbe0"
   },
   "filename": "TÌM SỐ DƯ.java",
+  "alias": "J03018",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.541Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "673"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.902Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc768"
+    "$oid": "66cafff6129bbbee8777fbe3"
   },
   "filename": "XÂU CON LỚN NHẤT.java",
+  "alias": "J03019",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.562Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "802"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.919Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc76b"
+    "$oid": "66cafff6129bbbee8777fbe6"
   },
   "filename": "TÌM TỪ THUẬN NGHỊCH DÀI NHẤT.java",
+  "alias": "J03020",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.583Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1578"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.938Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc76e"
+    "$oid": "66cafff6129bbbee8777fbe9"
   },
   "filename": "ĐIỆN THOẠI CỤC GẠCH.java",
+  "alias": "J03021",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.603Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1123"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.954Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc771"
+    "$oid": "66cafff6129bbbee8777fbec"
   },
   "filename": "XỬ LÝ VĂN BẢN.java",
+  "alias": "J03022",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.622Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "577"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.970Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc774"
+    "$oid": "66cafff6129bbbee8777fbef"
   },
   "filename": "SỐ LA MÃ.java",
+  "alias": "J03023",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.640Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "867"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:31.987Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c9724fa207258c32fcc777"
+    "$oid": "66cafff6129bbbee8777fbf2"
   },
   "filename": "SỐ ƯU THẾ.java",
+  "alias": "J03024",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.658Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "813"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.003Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc77a"
+    "$oid": "66cafff6129bbbee8777fbf5"
   },
   "filename": "XÂU ĐỐI XỨNG.java",
+  "alias": "J03025",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.675Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "555"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.018Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc77d"
+    "$oid": "66cafff6129bbbee8777fbf8"
   },
   "filename": "XÂU KHÁC NHAU DÀI NHẤT.java",
+  "alias": "J03026",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.693Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "665"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.033Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc780"
+    "$oid": "66cafff6129bbbee8777fbfb"
   },
   "filename": "RÚT GỌN XÂU KÝ TỰ.java",
+  "alias": "J03027",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.709Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "620"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.047Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc783"
+    "$oid": "66cafff6129bbbee8777fbfe"
   },
   "filename": "MÃ HÓA DRM.java",
+  "alias": "J03028",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.726Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1015"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.059Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc786"
+    "$oid": "66cafff6129bbbee8777fc01"
   },
   "filename": "CHUẨN HÓA CÂU.java",
+  "alias": "J03029",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.743Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1127"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.070Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc789"
+    "$oid": "66cafff6129bbbee8777fc04"
   },
   "filename": "BIẾN ĐỔI A – B.java",
+  "alias": "J03030",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.761Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "766"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.082Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc78c"
+    "$oid": "66cafff6129bbbee8777fc07"
   },
   "filename": "XÂU ĐẦY ĐỦ.java",
+  "alias": "J03031",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.778Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "591"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.094Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc78f"
+    "$oid": "66cafff6129bbbee8777fc0a"
   },
   "filename": "ĐẢO TỪ.java",
+  "alias": "J03032",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.796Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "653"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.106Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc792"
+    "$oid": "66cafff6129bbbee8777fc0d"
   },
   "filename": "BỘI SỐ CHUNG NHỎ NHẤT.java",
+  "alias": "J03033",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.814Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "586"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.123Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc795"
+    "$oid": "66cafff6129bbbee8777fc10"
   },
   "filename": "ĐIỀN CHỮ SỐ.java",
+  "alias": "J03035",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.834Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1367"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.137Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc798"
+    "$oid": "66cafff6129bbbee8777fc13"
   },
   "filename": "XOAY VÒNG KÝ TỰ.java",
+  "alias": "J03036",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.852Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1017"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.151Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc79b"
+    "$oid": "66cafff6129bbbee8777fc16"
   },
   "filename": "VÒNG TRÒN.java",
+  "alias": "J03037",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.871Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1073"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.165Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc79e"
+    "$oid": "66cafff6129bbbee8777fc19"
   },
   "filename": "ĐÁNH DẤU CHỮ CÁI.java",
+  "alias": "J03038",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.887Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "861"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.178Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc7a1"
+    "$oid": "66cafff6129bbbee8777fc1c"
   },
   "filename": "CHIA HẾT.java",
+  "alias": "J03039",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.904Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "532"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.190Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc7a4"
+    "$oid": "66cafff6129bbbee8777fc1f"
   },
   "filename": "BIỂN SỐ ĐẸP.java",
+  "alias": "J03040",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.923Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1040"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.201Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc7a7"
+    "$oid": "66cafff6129bbbee8777fc22"
   },
   "filename": "KHAI BÁO LỚP POINT.java",
+  "alias": "J04001",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.945Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "700"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.213Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc7aa"
+    "$oid": "66cafff6129bbbee8777fc25"
   },
   "filename": "KHAI BÁO LỚP HÌNH CHỮ NHẬT.java",
+  "alias": "J04002",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.967Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "598"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.224Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc7ad"
+    "$oid": "66cafff6129bbbee8777fc28"
   },
   "filename": "PHÂN SỐ.java",
+  "alias": "J04003",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:10.991Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "414"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.233Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc7b0"
+    "$oid": "66cafff7129bbbee8777fc2b"
   },
   "filename": "TỔNG PHÂN SỐ.java",
+  "alias": "J04004",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.021Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "628"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.242Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc7b3"
+    "$oid": "66cafff7129bbbee8777fc2e"
   },
   "filename": "KHAI BÁO LỚP THÍ SINH.java",
+  "alias": "J04005",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.048Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "646"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.251Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc7b6"
+    "$oid": "66cafff7129bbbee8777fc31"
   },
   "filename": "KHAI BÁO LỚP SINH VIÊN.java",
+  "alias": "J04006",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.080Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "506"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.261Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc7b9"
+    "$oid": "66cafff7129bbbee8777fc34"
   },
   "filename": "KHAI BÁO LỚP NHÂN VIÊN.java",
+  "alias": "J04007",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.106Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "248"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.270Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc7bc"
+    "$oid": "66cafff7129bbbee8777fc37"
   },
   "filename": "CHU VI TAM GIÁC.java",
+  "alias": "J04008",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.134Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1049"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.279Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc7bf"
+    "$oid": "66cafff7129bbbee8777fc3a"
   },
   "filename": "DIỆN TÍCH TAM GIÁC.java",
+  "alias": "J04009",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.161Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1475"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.287Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc7c2"
+    "$oid": "66cafff7129bbbee8777fc3d"
   },
   "filename": "DIỆN TÍCH HÌNH TRÒN NGOẠI TIẾP TAM GIÁC.java",
+  "alias": "J04010",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.183Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1542"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.297Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc7c5"
+    "$oid": "66cafff7129bbbee8777fc40"
   },
   "filename": "BỐN ĐIỂM TRÊN MẶT PHẲNG.java",
+  "alias": "J04011",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.203Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "2863"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.306Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc7c8"
+    "$oid": "66cafff7129bbbee8777fc43"
   },
   "filename": "BÀI TOÁN TÍNH CÔNG.java",
+  "alias": "J04012",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.220Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "878"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.316Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc7cb"
+    "$oid": "66cafff7129bbbee8777fc46"
   },
   "filename": "BÀI TOÁN TUYỂN SINH.java",
+  "alias": "J04013",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.237Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1879"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.325Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc7ce"
+    "$oid": "66cafff7129bbbee8777fc49"
   },
   "filename": "TÍNH TOÁN PHÂN SỐ.java",
+  "alias": "J04014",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.254Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1494"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.332Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc7d1"
+    "$oid": "66cafff7129bbbee8777fc4c"
   },
   "filename": "TÍNH THU NHẬP GIÁO VIÊN.java",
+  "alias": "J04015",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.278Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "562"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.341Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc7d4"
+    "$oid": "66cafff7129bbbee8777fc4f"
   },
   "filename": "TÍCH HAI ĐỐI TƯỢNG MA TRẬN.java",
+  "alias": "J04016",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.309Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "2011"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.349Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc7d7"
+    "$oid": "66cafff7129bbbee8777fc52"
   },
   "filename": "TÍCH MA TRẬN VÀ CHUYỂN VỊ CỦA NÓ.java",
+  "alias": "J04017",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.346Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "2357"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.357Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc7da"
+    "$oid": "66cafff7129bbbee8777fc55"
   },
   "filename": "SỐ PHỨC.java",
+  "alias": "J04018",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.382Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1166"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.364Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc7dd"
+    "$oid": "66cafff7129bbbee8777fc58"
   },
-  "filename": "LỚP TRIANGLE",
+  "filename": "LỚP TRIANGLE - 1.java",
+  "alias": "J04019",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.415Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1880"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.372Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc7e0"
+    "$oid": "66cafff7129bbbee8777fc5b"
   },
   "filename": "LỚP PAIR.java",
+  "alias": "J04020",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.440Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1877"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.379Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc7e3"
+    "$oid": "66cafff7129bbbee8777fc5e"
   },
   "filename": "LỚP INTSET.java",
+  "alias": "J04021",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.464Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1523"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.387Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc7e6"
+    "$oid": "66cafff7129bbbee8777fc61"
   },
   "filename": "WORDSET.java",
+  "alias": "J04022",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.503Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1693"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.394Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc7e9"
+    "$oid": "66cafff7129bbbee8777fc64"
   },
-  "filename": "DANH SÁCH ĐỐI TƯỢNG SINH VIÊN",
+  "filename": "DANH SÁCH ĐỐI TƯỢNG SINH VIÊN - 1.java",
+  "alias": "J05003",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.520Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "804"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.401Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc7ec"
+    "$oid": "66cafff7129bbbee8777fc67"
   },
-  "filename": "DANH SÁCH ĐỐI TƯỢNG SINH VIÊN",
+  "filename": "DANH SÁCH ĐỐI TƯỢNG SINH VIÊN - 2.java",
+  "alias": "J05004",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.536Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1139"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.409Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc7ef"
+    "$oid": "66cafff7129bbbee8777fc6a"
   },
-  "filename": "DANH SÁCH ĐỐI TƯỢNG SINH VIÊN",
+  "filename": "DANH SÁCH ĐỐI TƯỢNG SINH VIÊN - 3.java",
+  "alias": "J05005",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.553Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1810"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.419Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc7f2"
+    "$oid": "66cafff7129bbbee8777fc6d"
   },
   "filename": "DANH SÁCH ĐỐI TƯỢNG NHÂN VIÊN.java",
+  "alias": "J05006",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.570Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1634"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.427Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc7f5"
+    "$oid": "66cafff7129bbbee8777fc70"
   },
   "filename": "SẮP XẾP DANH SÁCH ĐỐI TƯỢNG NHÂN VIÊN.java",
+  "alias": "J05007",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.589Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1953"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.436Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc7f8"
+    "$oid": "66cafff7129bbbee8777fc73"
   },
   "filename": "DIỆN TÍCH ĐA GIÁC.java",
+  "alias": "J05008",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.605Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "691"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.446Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc7fb"
+    "$oid": "66cafff7129bbbee8777fc76"
   },
   "filename": "TÌM THỦ KHOA CỦA KỲ THI.java",
+  "alias": "J05009",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.624Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1749"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.455Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc7fe"
+    "$oid": "66cafff7129bbbee8777fc79"
   },
   "filename": "SẮP XẾP DANH SÁCH MẶT HÀNG.java",
+  "alias": "J05010",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.643Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1559"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.464Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc801"
+    "$oid": "66cafff7129bbbee8777fc7c"
   },
   "filename": "TÍNH GIỜ.java",
+  "alias": "J05011",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.662Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1237"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.474Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc804"
+    "$oid": "66cafff7129bbbee8777fc7f"
   },
   "filename": "TÍNH TIỀN.java",
+  "alias": "J05012",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.681Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1091"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.483Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc807"
+    "$oid": "66cafff7129bbbee8777fc82"
   },
   "filename": "TUYỂN DỤNG.java",
+  "alias": "J05013",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.701Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1351"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.493Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc80a"
+    "$oid": "66cafff7129bbbee8777fc85"
   },
   "filename": "TUYỂN GIÁO VIÊN.java",
+  "alias": "J05014",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.721Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1690"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.509Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc80d"
+    "$oid": "66cafff7129bbbee8777fc88"
   },
   "filename": "ĐUA XE ĐẠP.java",
+  "alias": "J05015",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.741Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1472"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.522Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc810"
+    "$oid": "66cafff7129bbbee8777fc8b"
   },
   "filename": "HÓA ĐƠN KHÁCH SẠN.java",
+  "alias": "J05016",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.760Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "2338"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.535Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc813"
+    "$oid": "66cafff7129bbbee8777fc8e"
   },
   "filename": "HÓA ĐƠN TIỀN NƯỚC.java",
+  "alias": "J05017",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.780Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1422"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.547Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc816"
+    "$oid": "66cafff7129bbbee8777fc91"
   },
   "filename": "BẢNG ĐIỂM HỌC SINH.java",
+  "alias": "J05018",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.799Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1616"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.559Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc819"
+    "$oid": "66cafff7129bbbee8777fc94"
   },
   "filename": "LƯỢNG MƯA TRUNG BÌNH.java",
+  "alias": "J05019",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.819Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1802"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.570Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc81c"
+    "$oid": "66cafff7129bbbee8777fc97"
   },
   "filename": "SẮP XẾP SINH VIÊN THEO LỚP.java",
+  "alias": "J05020",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.839Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1656"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.580Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc81f"
+    "$oid": "66cafff7129bbbee8777fc9a"
   },
   "filename": "SẮP XẾP THEO MÃ SINH VIÊN.java",
+  "alias": "J05021",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.862Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1483"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.591Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc822"
+    "$oid": "66cafff7129bbbee8777fc9d"
   },
   "filename": "LIỆT KÊ SINH VIÊN THEO LỚP.java",
+  "alias": "J05022",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.882Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1701"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.603Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc825"
+    "$oid": "66cafff7129bbbee8777fca0"
   },
   "filename": "LIỆT KÊ SINH VIÊN THEO KHÓA.java",
+  "alias": "J05023",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.903Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1731"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.616Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc828"
+    "$oid": "66cafff7129bbbee8777fca3"
   },
   "filename": "LIỆT KÊ SINH VIÊN THEO NGÀNH.java",
+  "alias": "J05024",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.923Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "2268"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.626Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc82b"
+    "$oid": "66cafff7129bbbee8777fca6"
   },
   "filename": "SẮP XẾP DANH SÁCH GIẢNG VIÊN.java",
+  "alias": "J05025",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.943Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1162"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.636Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc82e"
+    "$oid": "66cafff7129bbbee8777fca9"
   },
   "filename": "DANH SÁCH GIẢNG VIÊN THEO BỘ MÔN.java",
+  "alias": "J05026",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.965Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1400"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.647Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc831"
+    "$oid": "66cafff7129bbbee8777fcac"
   },
   "filename": "TÌM KIẾM GIẢNG VIÊN.java",
+  "alias": "J05027",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:11.986Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1478"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.658Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc834"
+    "$oid": "66cafff7129bbbee8777fcaf"
   },
-  "filename": "DANH SÁCH DOANH NGHIỆP NHẬN SINH VIÊN THỰC TẬP",
+  "filename": "DANH SÁCH DOANH NGHIỆP NHẬN SINH VIÊN THỰC TẬP - 1.java",
+  "alias": "J05028",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.006Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "937"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.668Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc837"
+    "$oid": "66cafff8129bbbee8777fcb2"
   },
-  "filename": "DANH SÁCH DOANH NGHIỆP NHẬN SINH VIÊN THỰC TẬP",
+  "filename": "DANH SÁCH DOANH NGHIỆP NHẬN SINH VIÊN THỰC TẬP - 2.java",
+  "alias": "J05029",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.028Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1225"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.678Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc83a"
+    "$oid": "66cafff8129bbbee8777fcb5"
   },
-  "filename": "BẢNG ĐIỂM THÀNH PHẦN",
+  "filename": "BẢNG ĐIỂM THÀNH PHẦN - 1.java",
+  "alias": "J05030",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.051Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1101"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.687Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc83d"
+    "$oid": "66cafff8129bbbee8777fcb8"
   },
-  "filename": "BẢNG ĐIỂM THÀNH PHẦN",
+  "filename": "BẢNG ĐIỂM THÀNH PHẦN - 2.java",
+  "alias": "J05031",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.075Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1101"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.696Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc840"
+    "$oid": "66cafff8129bbbee8777fcbb"
   },
   "filename": "TRẺ NHẤT – GIÀ NHẤT.java",
+  "alias": "J05032",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.097Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1081"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.706Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc843"
+    "$oid": "66cafff8129bbbee8777fcbe"
   },
   "filename": "SẮP XẾP THỜI GIAN.java",
+  "alias": "J05033",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.117Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "828"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.713Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc846"
+    "$oid": "66cafff8129bbbee8777fcc1"
   },
-  "filename": "DANH SÁCH THỰC TẬP",
+  "filename": "DANH SÁCH THỰC TẬP - 1.java",
+  "alias": "J05034",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.137Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1301"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.724Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc849"
+    "$oid": "66cafff8129bbbee8777fcc4"
   },
-  "filename": "DANH SÁCH THỰC TẬP",
+  "filename": "DANH SÁCH THỰC TẬP - 2.java",
+  "alias": "J05035",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.156Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1301"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.733Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc84c"
+    "$oid": "66cafff8129bbbee8777fcc7"
   },
-  "filename": "TÍNH GIÁ BÁN",
+  "filename": "TÍNH GIÁ BÁN - 1.java",
+  "alias": "J05036",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.175Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1120"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.743Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc84f"
+    "$oid": "66cafff8129bbbee8777fcca"
   },
-  "filename": "TÍNH GIÁ BÁN",
+  "filename": "TÍNH GIÁ BÁN - 2.java",
+  "alias": "J05037",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.194Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1270"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.755Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc852"
+    "$oid": "66cafff8129bbbee8777fccd"
   },
   "filename": "BẢNG KÊ TIỀN LƯƠNG.java",
+  "alias": "J05038",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.212Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1495"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.766Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc855"
+    "$oid": "66cafff8129bbbee8777fcd0"
   },
   "filename": "LẬP BẢNG TÍNH CÔNG.java",
+  "alias": "J05040",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.230Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1341"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.776Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc858"
+    "$oid": "66cafff8129bbbee8777fcd3"
   },
   "filename": "SẮP XẾP BẢNG TÍNH CÔNG.java",
+  "alias": "J05041",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.250Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1389"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.785Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc85b"
+    "$oid": "66cafff8129bbbee8777fcd6"
   },
   "filename": "BẢNG XẾP HẠNG.java",
+  "alias": "J05042",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.266Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "965"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.796Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc85e"
+    "$oid": "66cafff8129bbbee8777fcd9"
   },
   "filename": "TÍNH THU NHẬP CHO NHÂN VIÊN.java",
+  "alias": "J05043",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.285Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1430"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.807Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc861"
+    "$oid": "66cafff8129bbbee8777fcdc"
   },
   "filename": "LIỆT KÊ NHÂN VIÊN THEO CHỨC VỤ.java",
+  "alias": "J05044",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.304Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1576"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.818Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc864"
+    "$oid": "66cafff8129bbbee8777fcdf"
   },
   "filename": "SẮP XẾP NHÂN VIÊN THEO THU NHẬP.java",
+  "alias": "J05045",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.324Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1661"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.829Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc867"
+    "$oid": "66cafff8129bbbee8777fce2"
   },
   "filename": "BẢNG KÊ NHẬP KHO.java",
+  "alias": "J05046",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.343Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1548"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.838Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc86a"
+    "$oid": "66cafff8129bbbee8777fce5"
   },
   "filename": "BẢNG KÊ NHẬP KHO SẮP XẾP THEO CHIẾT KHẤU.java",
+  "alias": "J05047",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.362Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1603"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.849Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc86d"
+    "$oid": "66cafff8129bbbee8777fce8"
   },
   "filename": "BẢNG THEO DÕI NHẬP XUẤT HÀNG.java",
+  "alias": "J05048",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.383Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1426"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.858Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc870"
+    "$oid": "66cafff8129bbbee8777fceb"
   },
   "filename": "LIỆT KÊ NHẬP XUẤT HÀNG THEO NHÓM.java",
+  "alias": "J05049",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.407Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1565"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.869Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc873"
+    "$oid": "66cafff8129bbbee8777fcee"
   },
   "filename": "TÍNH TIỀN ĐIỆN.java",
+  "alias": "J05050",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.430Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1331"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.879Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc876"
+    "$oid": "66cafff8129bbbee8777fcf1"
   },
   "filename": "SẮP XẾP BẢNG TÍNH TIỀN ĐIỆN.java",
+  "alias": "J05051",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.454Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1388"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.890Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc879"
+    "$oid": "66cafff8129bbbee8777fcf4"
   },
   "filename": "TRA CỨU ĐƠN HÀNG.java",
+  "alias": "J05052",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.480Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1129"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.900Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc87c"
+    "$oid": "66cafff8129bbbee8777fcf7"
   },
   "filename": "SẮP XẾP ĐƠN HÀNG.java",
+  "alias": "J05053",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.510Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1186"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.910Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc87f"
+    "$oid": "66cafff8129bbbee8777fcfa"
   },
   "filename": "XẾP HẠNG HỌC SINH.java",
+  "alias": "J05054",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.541Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1536"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.920Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc882"
+    "$oid": "66cafff8129bbbee8777fcfd"
   },
-  "filename": "XẾP HẠNG VẬN ĐỘNG VIÊN",
+  "filename": "XẾP HẠNG VẬN ĐỘNG VIÊN - 1.java",
+  "alias": "J05055",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.575Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "2182"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.930Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc885"
+    "$oid": "66cafff8129bbbee8777fd00"
   },
-  "filename": "XẾP HẠNG VẬN ĐỘNG VIÊN",
+  "filename": "XẾP HẠNG VẬN ĐỘNG VIÊN - 2.java",
+  "alias": "J05056",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.607Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "2239"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.940Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc888"
+    "$oid": "66cafff8129bbbee8777fd03"
   },
   "filename": "BẢNG ĐIỂM TUYỂN SINH.java",
+  "alias": "J05057",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.639Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1366"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.949Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc88b"
+    "$oid": "66cafff8129bbbee8777fd06"
   },
   "filename": "SẮP XẾP KẾT QUẢ TUYỂN SINH.java",
+  "alias": "J05058",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.669Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1534"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.959Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc88e"
+    "$oid": "66cafff8129bbbee8777fd09"
   },
   "filename": "XÁC ĐỊNH DANH SÁCH TRÚNG TUYỂN.java",
+  "alias": "J05059",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.697Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "2757"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.969Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc891"
+    "$oid": "66cafff8129bbbee8777fd0c"
   },
   "filename": "KẾT QUẢ XÉT TUYỂN.java",
+  "alias": "J05060",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.722Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1521"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.977Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc894"
+    "$oid": "66cafff8129bbbee8777fd0f"
   },
   "filename": "SẮP XẾP KẾT QUẢ XÉT TUYỂN.java",
+  "alias": "J05061",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.743Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1690"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.986Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc897"
+    "$oid": "66cafff8129bbbee8777fd12"
   },
   "filename": "HỌC BỔNG SINH VIÊN.java",
+  "alias": "J05062",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.761Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1985"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:32.994Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97250a207258c32fcc89a"
+    "$oid": "66cafff8129bbbee8777fd15"
   },
   "filename": "TỔNG ĐA THỨC.java",
+  "alias": "J05063",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.781Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "2642"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.003Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc89d"
+    "$oid": "66cafff8129bbbee8777fd18"
   },
   "filename": "BẢNG THU NHẬP GIÁO VIÊN.java",
+  "alias": "J05064",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.799Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1588"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.012Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc8a0"
+    "$oid": "66cafff8129bbbee8777fd1b"
   },
   "filename": "LIỆT KÊ NHÂN VIÊN THEO NHÓM.java",
+  "alias": "J05065",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.819Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1942"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.020Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc8a3"
+    "$oid": "66cafff8129bbbee8777fd1e"
   },
   "filename": "TÌM KIẾM NHÂN VIÊN THEO TÊN.java",
+  "alias": "J05066",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.838Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "2059"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.029Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc8a6"
+    "$oid": "66cafff8129bbbee8777fd21"
   },
   "filename": "QUẢN LÝ KHO XĂNG DẦU.java",
+  "alias": "J05067",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.856Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1608"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.037Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc8a9"
+    "$oid": "66cafff8129bbbee8777fd24"
   },
   "filename": "SẮP XẾP BẢNG GIÁ XĂNG DẦU.java",
+  "alias": "J05068",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.875Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1665"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.045Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc8ac"
+    "$oid": "66cafff8129bbbee8777fd27"
   },
-  "filename": "CÂU LẠC BỘ BÓNG ĐÁ",
+  "filename": "CÂU LẠC BỘ BÓNG ĐÁ - 1.java",
+  "alias": "J05069",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.894Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1532"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.054Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc8af"
+    "$oid": "66cafff8129bbbee8777fd2a"
   },
-  "filename": "CÂU LẠC BỘ BÓNG ĐÁ",
+  "filename": "CÂU LẠC BỘ BÓNG ĐÁ - 2.java",
+  "alias": "J05070",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.912Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1715"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.061Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc8b2"
+    "$oid": "66cafff8129bbbee8777fd2d"
   },
-  "filename": "TÍNH CƯỚC ĐIỆN THOẠI CỐ ĐỊNH",
+  "filename": "TÍNH CƯỚC ĐIỆN THOẠI CỐ ĐỊNH - 1.java",
+  "alias": "J05071",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.930Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "2638"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.072Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc8b5"
+    "$oid": "66cafff8129bbbee8777fd30"
   },
-  "filename": "TÍNH CƯỚC ĐIỆN THOẠI CỐ ĐỊNH",
+  "filename": "TÍNH CƯỚC ĐIỆN THOẠI CỐ ĐỊNH - 2.java",
+  "alias": "J05072",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.949Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "2727"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.080Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc8b8"
+    "$oid": "66cafff8129bbbee8777fd33"
   },
   "filename": "TÍNH TOÁN GIÁ BÁN.java",
+  "alias": "J05073",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.966Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1586"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.089Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc8bb"
+    "$oid": "66cafff8129bbbee8777fd36"
   },
-  "filename": "ĐIỂM DANH",
+  "filename": "ĐIỂM DANH - 1.java",
+  "alias": "J05074",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:12.987Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1583"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.100Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc8be"
+    "$oid": "66cafff8129bbbee8777fd39"
   },
-  "filename": "ĐIỂM DANH",
+  "filename": "ĐIỂM DANH - 2.java",
+  "alias": "J05075",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.006Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1669"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.110Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc8c1"
+    "$oid": "66cafff9129bbbee8777fd3c"
   },
   "filename": "NHẬP XUẤT HÀNG.java",
+  "alias": "J05076",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.027Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1991"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.123Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc8c4"
+    "$oid": "66cafff9129bbbee8777fd3f"
   },
   "filename": "TÍNH LƯƠNG.java",
+  "alias": "J05077",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.048Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "2378"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.136Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc8c7"
+    "$oid": "66cafff9129bbbee8777fd42"
   },
   "filename": "BẢNG LƯƠNG THEO PHÒNG BAN.java",
+  "alias": "J05078",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.069Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "2701"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.148Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc8ca"
+    "$oid": "66cafff9129bbbee8777fd45"
   },
   "filename": "LỚP HỌC PHẦN – 1.java",
+  "alias": "J05079",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.091Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1592"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.164Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc8cd"
+    "$oid": "66cafff9129bbbee8777fd48"
   },
   "filename": "LỚP HỌC PHẦN – 2.java",
+  "alias": "J05080",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.109Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1747"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.180Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc8d0"
+    "$oid": "66cafff9129bbbee8777fd4b"
   },
   "filename": "DANH SÁCH MẶT HÀNG.java",
+  "alias": "J05081",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.129Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1498"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.197Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc8d3"
+    "$oid": "66cafff9129bbbee8777fd4e"
   },
   "filename": "DANH SÁCH KHÁCH HÀNG.java",
+  "alias": "J05082",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.148Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1969"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.212Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc8d6"
+    "$oid": "66cafff9129bbbee8777fd51"
   },
   "filename": "TÍNH TOÁN HÓA ĐƠN BÁN QUẦN ÁO.java",
+  "alias": "J06001",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.167Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "2504"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.227Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc8d9"
+    "$oid": "66cafff9129bbbee8777fd54"
   },
   "filename": "SẮP XẾP HÓA ĐƠN BÁN QUẦN ÁO.java",
+  "alias": "J06002",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.188Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "2590"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.241Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc8dc"
+    "$oid": "66cafff9129bbbee8777fd57"
   },
   "filename": "QUẢN LÝ BÀI TẬP NHÓM – 1.java",
+  "alias": "J06003",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.210Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1560"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.255Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc8df"
+    "$oid": "66cafff9129bbbee8777fd5a"
   },
   "filename": "QUẢN LÝ BÀI TẬP NHÓM – 2.java",
+  "alias": "J06004",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.232Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1339"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.269Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc8e2"
+    "$oid": "66cafff9129bbbee8777fd5d"
   },
   "filename": "QUẢN LÝ BÁN HÀNG – 1.java",
+  "alias": "J06005",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.258Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "3131"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.283Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc8e5"
+    "$oid": "66cafff9129bbbee8777fd60"
   },
   "filename": "QUẢN LÝ BÁN HÀNG – 2.java",
+  "alias": "J06006",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.282Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "3284"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.297Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc8e8"
+    "$oid": "66cafff9129bbbee8777fd63"
   },
   "filename": "BẢNG TÍNH GIỜ CHUẨN.java",
+  "alias": "J06007",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.305Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1716"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.311Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc8eb"
+    "$oid": "66cafff9129bbbee8777fd66"
   },
   "filename": "TÍNH GIỜ CHUẨN CHO TỪNG GIẢNG VIÊN.java",
+  "alias": "J06008",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.326Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "3293"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.326Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc8ee"
+    "$oid": "66cafff9129bbbee8777fd69"
   },
   "filename": "ĐỌC FILE VĂN BẢN.java",
+  "alias": "J07001",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.345Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "420"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.339Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc8f1"
+    "$oid": "66cafff9129bbbee8777fd6c"
   },
   "filename": "TÍNH TỔNG.java",
+  "alias": "J07002",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.363Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "614"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.353Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc8f4"
+    "$oid": "66cafff9129bbbee8777fd6f"
   },
   "filename": "TÁCH ĐÔI VÀ TÍNH TỔNG.java",
+  "alias": "J07003",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.382Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "778"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.367Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc8f7"
+    "$oid": "66cafff9129bbbee8777fd72"
   },
-  "filename": "SỐ KHÁC NHAU TRONG FILE ",
+  "filename": "SỐ KHÁC NHAU TRONG FILE  - 1.java",
+  "alias": "J07004",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.402Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "739"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.383Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc8fa"
+    "$oid": "66cafff9129bbbee8777fd75"
   },
-  "filename": "SỐ KHÁC NHAU TRONG FILE ",
+  "filename": "SỐ KHÁC NHAU TRONG FILE  - 2.java",
+  "alias": "J07005",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.423Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "561"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.398Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc8fd"
+    "$oid": "66cafff9129bbbee8777fd78"
   },
-  "filename": "SỐ KHÁC NHAU TRONG FILE",
+  "filename": "SỐ KHÁC NHAU TRONG FILE - 3.java",
+  "alias": "J07006",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.442Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "617"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.411Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc900"
+    "$oid": "66cafff9129bbbee8777fd7b"
   },
   "filename": "LIỆT KÊ TỪ KHÁC NHAU.java",
+  "alias": "J07007",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.462Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1266"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.425Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc903"
+    "$oid": "66cafff9129bbbee8777fd7e"
   },
   "filename": "DÃY CON TĂNG DẦN.java",
+  "alias": "J07008",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.481Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1007"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.441Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc906"
+    "$oid": "66cafff9129bbbee8777fd81"
   },
-  "filename": "LỚP INTSET",
+  "filename": "LỚP INTSET - 2.java",
+  "alias": "J07009",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.504Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1747"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.455Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc909"
+    "$oid": "66cafff9129bbbee8777fd84"
   },
-  "filename": "DANH SÁCH SINH VIÊN TRONG FILE",
+  "filename": "DANH SÁCH SINH VIÊN TRONG FILE - 2.java",
+  "alias": "J07010",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.523Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "808"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.469Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc90c"
+    "$oid": "66cafff9129bbbee8777fd87"
   },
   "filename": "THỐNG KÊ TỪ KHÁC NHAU TRONG FILE VĂN BẢN.java",
+  "alias": "J07011",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.541Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1886"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.486Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc90f"
+    "$oid": "66cafff9129bbbee8777fd8a"
   },
   "filename": "THỐNG KÊ TỪ KHÁC NHAU TRONG FILE NHỊ PHÂN.java",
+  "alias": "J07012",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.559Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1472"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.501Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc912"
+    "$oid": "66cafff9129bbbee8777fd8d"
   },
   "filename": "DANH SÁCH SINH VIÊN TRONG FILE NHỊ PHÂN.java",
+  "alias": "J07013",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.576Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1265"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.517Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc915"
+    "$oid": "66cafff9129bbbee8777fd90"
   },
   "filename": "HỢP VÀ GIAO CỦA HAI FILE VĂN BẢN.java",
+  "alias": "J07014",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.596Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1811"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.530Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc918"
+    "$oid": "66cafff9129bbbee8777fd93"
   },
   "filename": "SỐ NGUYÊN TỐ TRONG FILE NHỊ PHÂN.java",
+  "alias": "J07015",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.612Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "908"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.544Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc91b"
+    "$oid": "66cafff9129bbbee8777fd96"
   },
   "filename": "SỐ NGUYÊN TỐ TRONG HAI FILE NHỊ PHÂN.java",
+  "alias": "J07016",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.632Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1384"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.556Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc91e"
+    "$oid": "66cafff9129bbbee8777fd99"
   },
   "filename": "LỚP PAIR (generic).java",
+  "alias": "J07017",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.650Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1985"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.568Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc921"
+    "$oid": "66cafff9129bbbee8777fd9c"
   },
   "filename": "CHUẨN HÓA DANH SÁCH SINH VIÊN.java",
+  "alias": "J07018",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.670Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1627"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.581Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc924"
+    "$oid": "66cafff9129bbbee8777fd9f"
   },
-  "filename": "HÓA ĐƠN",
+  "filename": "HÓA ĐƠN - 1.java",
+  "alias": "J07019",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.691Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "2629"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.594Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc927"
+    "$oid": "66cafff9129bbbee8777fda2"
   },
-  "filename": "HÓA ĐƠN",
+  "filename": "HÓA ĐƠN - 2.java",
+  "alias": "J07020",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.712Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "3341"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.607Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc92a"
+    "$oid": "66cafff9129bbbee8777fda5"
   },
   "filename": "CHUẨN HÓA XÂU HỌ TÊN TRONG FILE.java",
+  "alias": "J07021",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.733Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "903"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.620Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc92d"
+    "$oid": "66cafff9129bbbee8777fda8"
   },
   "filename": "LOẠI BỎ SỐ NGUYÊN.java",
+  "alias": "J07022",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.751Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "772"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.634Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc930"
+    "$oid": "66cafff9129bbbee8777fdab"
   },
   "filename": "NGUYÊN TỐ VÀ THUẬN NGHỊCH.java",
+  "alias": "J07023",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.770Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "2060"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.646Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc933"
+    "$oid": "66cafff9129bbbee8777fdae"
   },
   "filename": "HIỆU CỦA HAI TẬP TỪ.java",
+  "alias": "J07024",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.791Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1542"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.657Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc936"
+    "$oid": "66cafff9129bbbee8777fdb1"
   },
   "filename": "DANH SÁCH KHÁCH HÀNG TRONG FILE.java",
+  "alias": "J07025",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.810Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1947"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.669Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc939"
+    "$oid": "66cafff9129bbbee8777fdb4"
   },
   "filename": "QUẢN LÝ BÀI TẬP NHÓM.java",
+  "alias": "J07027",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.831Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1739"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.679Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc93c"
+    "$oid": "66cafff9129bbbee8777fdb7"
   },
   "filename": "TÍNH GIỜ CHUẨN.java",
+  "alias": "J07028",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.853Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1871"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.690Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc93f"
+    "$oid": "66cafff9129bbbee8777fdba"
   },
   "filename": "SỐ NGUYÊN TỐ LỚN NHẤT TRONG FILE.java",
+  "alias": "J07029",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.872Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "976"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.701Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc942"
+    "$oid": "66cafff9129bbbee8777fdbd"
   },
-  "filename": "CẶP SỐ NGUYÊN TỐ TRONG FILE",
+  "filename": "CẶP SỐ NGUYÊN TỐ TRONG FILE - 1.java",
+  "alias": "J07030",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.891Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "996"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.711Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc945"
+    "$oid": "66cafff9129bbbee8777fdc0"
   },
   "filename": "CẶP SỐ NGUYÊN TỐ TRONG FILE 2.java",
+  "alias": "J07031",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.913Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1063"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.721Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc948"
+    "$oid": "66cafff9129bbbee8777fdc3"
   },
   "filename": "SỐ THUẬN NGHỊCH TRONG FILE.java",
+  "alias": "J07032",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.934Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1782"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.732Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc94b"
+    "$oid": "66cafff9129bbbee8777fdc6"
   },
-  "filename": "DANH SÁCH SINH VIÊN TRONG FILE",
+  "filename": "DANH SÁCH SINH VIÊN TRONG FILE - 1.java",
+  "alias": "J07033",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.956Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1817"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.744Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc94e"
+    "$oid": "66cafff9129bbbee8777fdc9"
   },
   "filename": "DANH SÁCH MÔN HỌC.java",
+  "alias": "J07034",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.975Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1259"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.755Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc951"
+    "$oid": "66cafff9129bbbee8777fdcc"
   },
   "filename": "BẢNG ĐIỂM THEO MÔN HỌC.java",
+  "alias": "J07035",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:13.994Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "2908"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.765Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc954"
+    "$oid": "66cafffa129bbbee8777fdcf"
   },
   "filename": "BẢNG ĐIỂM THEO LỚP.java",
+  "alias": "J07036",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.012Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "2936"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.776Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc957"
+    "$oid": "66cafffa129bbbee8777fdd2"
   },
   "filename": "DANH SÁCH DOANH NGHIỆP.java",
+  "alias": "J07037",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.030Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1289"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.788Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc95a"
+    "$oid": "66cafffa129bbbee8777fdd5"
   },
-  "filename": "DANH SÁCH THỰC TẬP",
+  "filename": "DANH SÁCH THỰC TẬP - 3.java",
+  "alias": "J07038",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.048Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "2817"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.799Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc95d"
+    "$oid": "66cafffa129bbbee8777fdd8"
   },
   "filename": "LIỆT KÊ THEO THỨ TỰ XUẤT HIỆN.java",
+  "alias": "J07040",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.066Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1073"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.810Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc960"
+    "$oid": "66cafffa129bbbee8777fddb"
   },
-  "filename": "LIỆT KÊ CẶP SỐ",
+  "filename": "LIỆT KÊ CẶP SỐ - 1.java",
+  "alias": "J07041",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.084Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1145"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.822Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc963"
+    "$oid": "66cafffa129bbbee8777fdde"
   },
-  "filename": "LIỆT KÊ CẶP SỐ",
+  "filename": "LIỆT KÊ CẶP SỐ - 2.java",
+  "alias": "J07042",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.104Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1370"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.833Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc966"
+    "$oid": "66cafffa129bbbee8777fde1"
   },
   "filename": "LOẠI PHÒNG.java",
+  "alias": "J07045",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.125Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1786"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.846Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc969"
+    "$oid": "66cafffa129bbbee8777fde4"
   },
   "filename": "DANH SÁCH LƯU TRÚ.java",
+  "alias": "J07046",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.146Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1495"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.856Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc96c"
+    "$oid": "66cafffa129bbbee8777fde7"
   },
   "filename": "QUẢN LÝ KHÁCH SẠN.java",
+  "alias": "J07047",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.168Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "2363"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.865Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc96f"
+    "$oid": "66cafffa129bbbee8777fdea"
   },
   "filename": "DANH SÁCH SẢN PHẨM – 2.java",
+  "alias": "J07048",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.190Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1134"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.875Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc972"
+    "$oid": "66cafffa129bbbee8777fded"
   },
   "filename": "TÍNH NGÀY HẾT HẠN BẢO HÀNH.java",
+  "alias": "J07049",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.210Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "2450"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.884Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc975"
+    "$oid": "66cafffa129bbbee8777fdf0"
   },
   "filename": "SẮP XẾP MẶT HÀNG.java",
+  "alias": "J07050",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.228Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1272"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.894Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc978"
+    "$oid": "66cafffa129bbbee8777fdf3"
   },
   "filename": "TÍNH TIỀN PHÒNG.java",
+  "alias": "J07051",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.246Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "2288"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.904Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc97b"
+    "$oid": "66cafffa129bbbee8777fdf6"
   },
   "filename": "DANH SÁCH TRÚNG TUYỂN.java",
+  "alias": "J07052",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.264Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "2992"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.915Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc97e"
+    "$oid": "66cafffa129bbbee8777fdf9"
   },
   "filename": "XÉT TUYỂN.java",
+  "alias": "J07053",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.281Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "2155"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.925Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc981"
+    "$oid": "66cafffa129bbbee8777fdfc"
   },
   "filename": "TÍNH ĐIỂM TRUNG BÌNH.java",
+  "alias": "J07054",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.299Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1884"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.934Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc984"
+    "$oid": "66cafffa129bbbee8777fdff"
   },
   "filename": "XẾP LOẠI.java",
+  "alias": "J07055",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.317Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1818"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.943Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc987"
+    "$oid": "66cafffa129bbbee8777fe02"
   },
   "filename": "TÍNH TIỀN ĐIỆN.java",
+  "alias": "J07056",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.335Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1851"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.954Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc98a"
+    "$oid": "66cafffa129bbbee8777fe05"
   },
   "filename": "ĐIỂM TUYỂN SINH.java",
+  "alias": "J07057",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.354Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "3120"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.965Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc98d"
+    "$oid": "66cafffa129bbbee8777fe08"
   },
   "filename": "DANH SÁCH MÔN THI.java",
+  "alias": "J07058",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.372Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1210"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.976Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc990"
+    "$oid": "66cafffa129bbbee8777fe0b"
   },
   "filename": "DANH SÁCH CA THI.java",
+  "alias": "J07059",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.390Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1881"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:33.989Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97251a207258c32fcc993"
+    "$oid": "66cafffa129bbbee8777fe0e"
   },
   "filename": "SẮP XẾP LỊCH THI.java",
+  "alias": "J07060",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.409Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "2645"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:34.002Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97252a207258c32fcc996"
+    "$oid": "66cafffa129bbbee8777fe11"
   },
   "filename": "TÊN VIẾT TẮT.java",
+  "alias": "J07071",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.429Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "2114"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:34.015Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97252a207258c32fcc999"
+    "$oid": "66cafffa129bbbee8777fe14"
   },
   "filename": "CHUẨN HÓA VÀ SẮP XẾP.java",
+  "alias": "J07072",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.452Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1394"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:34.029Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97252a207258c32fcc99c"
+    "$oid": "66cafffa129bbbee8777fe17"
   },
   "filename": "ĐĂNG KÝ HÌNH THỨC GIẢNG DẠY.java",
+  "alias": "J07073",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.473Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1275"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:34.042Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97252a207258c32fcc99f"
+    "$oid": "66cafffa129bbbee8777fe1a"
   },
   "filename": "LỊCH GIẢNG DẠY THEO MÔN HỌC.java",
+  "alias": "J07074",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.495Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "2595"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:34.056Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97252a207258c32fcc9a2"
+    "$oid": "66cafffa129bbbee8777fe1d"
   },
   "filename": "LỊCH GIẢNG DẠY THEO GIẢNG VIÊN.java",
+  "alias": "J07075",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.516Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "2246"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:34.070Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97252a207258c32fcc9a5"
+    "$oid": "66cafffa129bbbee8777fe20"
   },
   "filename": "SẮP XẾP MA TRẬN.java",
+  "alias": "J07076",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.536Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1206"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:34.085Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97252a207258c32fcc9a8"
+    "$oid": "66cafffa129bbbee8777fe23"
   },
   "filename": "TÍNH GIÁ TRỊ BIỂU THỨC.java",
+  "alias": "J07077",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.556Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "2488"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:34.100Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97252a207258c32fcc9ab"
+    "$oid": "66cafffa129bbbee8777fe26"
   },
   "filename": "TÌM VỊ TRÍ XÂU CON.java",
+  "alias": "J07078",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.574Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "795"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:34.115Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97252a207258c32fcc9ae"
+    "$oid": "66cafffa129bbbee8777fe29"
   },
   "filename": "SẮP XẾP DANH SÁCH SINH VIÊN.java",
+  "alias": "J07081",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.593Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1408"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:34.130Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97252a207258c32fcc9b1"
+    "$oid": "66cafffa129bbbee8777fe2c"
   },
   "filename": "THỜI GIAN ONLINE LIÊN TỤC.java",
+  "alias": "J07084",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.612Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1226"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:34.144Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97252a207258c32fcc9b4"
+    "$oid": "66cafffa129bbbee8777fe2f"
   },
   "filename": "TỔNG CHỮ SỐ.java",
+  "alias": "J07085",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.630Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "880"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:34.158Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97252a207258c32fcc9b7"
+    "$oid": "66cafffa129bbbee8777fe32"
   },
   "filename": "TÌM TỪ THUẬN NGHỊCH DÀI NHẤT.java",
+  "alias": "J08010",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.639Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1578"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:34.171Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97252a207258c32fcc9ba"
+    "$oid": "66cafffa129bbbee8777fe35"
   },
   "filename": "LIỆT KÊ VÀ ĐẾM.java",
+  "alias": "J08011",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.658Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1336"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:34.184Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97252a207258c32fcc9bd"
+    "$oid": "66cafffa129bbbee8777fe38"
   },
   "filename": "HÌNH SAO.java",
+  "alias": "J08012",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.674Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "656"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:34.199Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97252a207258c32fcc9c0"
+    "$oid": "66cafffa129bbbee8777fe3b"
   },
   "filename": "CẶP SỐ CÓ TỔNG BẰNG K.java",
+  "alias": "J08015",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.692Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1132"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:34.211Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97252a207258c32fcc9c3"
+    "$oid": "66cafffa129bbbee8777fe3e"
   },
   "filename": "KIỂM TRA DÃY NGOẶC ĐÚNG.java",
+  "alias": "J08020",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.709Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "957"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:34.224Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97252a207258c32fcc9c6"
+    "$oid": "66cafffa129bbbee8777fe41"
   },
   "filename": "DÃY NGOẶC ĐÚNG DÀI NHẤT.java",
+  "alias": "J08021",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.727Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1112"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:34.236Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97252a207258c32fcc9c9"
+    "$oid": "66cafffa129bbbee8777fe44"
   },
   "filename": "PHẦN TỬ BÊN PHẢI ĐẦU TIÊN LỚN HƠN.java",
+  "alias": "J08022",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.744Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1055"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:34.248Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97252a207258c32fcc9cc"
+    "$oid": "66cafffa129bbbee8777fe47"
   },
   "filename": "HÌNH CHỮ NHẬT LỚN NHẤT.java",
+  "alias": "J08023",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.764Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1031"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:34.261Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97252a207258c32fcc9cf"
+    "$oid": "66cafffa129bbbee8777fe4a"
   },
   "filename": "SỐ 0 VÀ SỐ 9.java",
+  "alias": "J08024",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.783Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "848"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:34.270Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97252a207258c32fcc9d2"
+    "$oid": "66cafffa129bbbee8777fe4d"
   },
   "filename": "QUAY HÌNH VUÔNG.java",
+  "alias": "J08025",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.803Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1412"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:34.280Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97252a207258c32fcc9d5"
+    "$oid": "66cafffa129bbbee8777fe50"
   },
   "filename": "BIẾN ĐỔI S – T.java",
+  "alias": "J08026",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.820Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "558"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:34.289Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97252a207258c32fcc9d8"
+    "$oid": "66cafffa129bbbee8777fe53"
   },
   "filename": "GÕ BÀN PHÍM.java",
+  "alias": "J08027",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.836Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "845"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:34.297Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97252a207258c32fcc9db"
+    "$oid": "66cafffa129bbbee8777fe56"
   },
   "filename": "HÌNH CHỮ NHẬT ĐƠN SẮC.java",
+  "alias": "J08028",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.854Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1251"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:34.306Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97252a207258c32fcc9de"
+    "$oid": "66cafffa129bbbee8777fe59"
   },
   "filename": "QUÂN MÃ.java",
+  "alias": "J08029",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.873Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1634"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:34.314Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97252a207258c32fcc9e1"
+    "$oid": "66cafffa129bbbee8777fe5c"
   },
   "filename": "SỐ LỘC PHÁT.java",
+  "alias": "JKT013",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.891Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1263"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:34.322Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97252a207258c32fcc9e4"
+    "$oid": "66cafffa129bbbee8777fe5f"
   },
   "filename": "ĐẦU TƯ  CHỨNG KHOÁN.java",
+  "alias": "JKT014",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.913Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "1071"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:34.330Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97252a207258c32fcc9e7"
+    "$oid": "66cafffa129bbbee8777fe62"
   },
   "filename": "GÕ BÀN PHÍM.java",
+  "alias": "JKT015",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.934Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "830"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:34.338Z"
   }
 },
 {
   "_id": {
-    "$oid": "66c97252a207258c32fcc9ea"
+    "$oid": "66cafffa129bbbee8777fe65"
   },
   "filename": "TÍNH LƯƠNG.java",
+  "alias": "TN02012",
+  "uploadDate": {
+    "$date": "2024-08-25T09:57:14.947Z"
+  },
   "chunkSize": 261120,
   "length": {
     "$numberLong": "2378"
-  },
-  "uploadDate": {
-    "$date": "2024-08-24T05:40:34.347Z"
   }
 }]

@@ -13,6 +13,9 @@ def read_data():
         print(item)
     return
 
+def get_password(account):
+    return client['Autosub_PTIT']['accounts'].find_one({"account": account})['password']
+
 def isvalid_account(account):
     return client['Autosub_PTIT']['accounts'].find_one({"account": account}) != None
 

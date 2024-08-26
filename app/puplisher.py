@@ -59,20 +59,30 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE, r: 
         
         elif command == "check":
             account = text_received.split()[1]
-            if(len(text_received.split()) != 3):
-                await context.bot.send_message(chat_id=chat_id, text="Cú pháp đúng là : check [tài khoản] [mật khẩu].")
+            if(len(text_received.split()) not in [2, 3]):
+                await context.bot.send_message(chat_id=chat_id, text="Cú pháp đúng là : check [tài khoản] [mật khẩu] khi tài khoản chưa có trong hệ thống. hoặc check [tài khoản] khi tài khoản đã có trong hệ thống.")
             else:
-                password = text_received.split()[2]
-            if account:
-                url = f"{DOMAIN}/not-done?username={account}&password={password}"
-                response = requests.get(url)
-                if response.status_code == 200:
-                    less = response.json().get('not_done', 0)
-                    await context.bot.send_message(chat_id=chat_id, text=f"Tài khoản của bạn còn {less} câu hỏi chưa làm.")
+                if len(text_received.split()) == 2:
+                    password = database.get_password(account)
+                    url = f"{DOMAIN}/not-done?username={account}&password={password}"
+                    response = requests.get(url)
+                    if response.status_code == 200:
+                        less = response.json().get('not_done', 0)
+                        await context.bot.send_message(chat_id=chat_id, text=f"Tài khoản của bạn còn {less} câu hỏi chưa làm.")
+                    else:
+                        await context.bot.send_message(chat_id=chat_id, text="Tài khoản của bạn không hợp lệ.")
                 else:
-                    await context.bot.send_message(chat_id=chat_id, text="Tài khoản của bạn không hợp lệ.")
-            else:
-                await context.bot.send_message(chat_id=chat_id, text="Vui lòng nhập tài khoản.")
+                    password = text_received.split()[2]
+                    if account:
+                        url = f"{DOMAIN}/not-done?username={account}&password={password}"
+                        response = requests.get(url)
+                        if response.status_code == 200:
+                            less = response.json().get('not_done', 0)
+                            await context.bot.send_message(chat_id=chat_id, text=f"Tài khoản của bạn còn {less} câu hỏi chưa làm.")
+                        else:
+                            await context.bot.send_message(chat_id=chat_id, text="Tài khoản của bạn không hợp lệ.")
+                    else:
+                        await context.bot.send_message(chat_id=chat_id, text="Vui lòng nhập tài khoản.")
         
         elif command == "help":
             await context.bot.send_message(chat_id=chat_id, text="Đây là tool tự động nộp bài tại CodePTIT cho các bạn !\nCác lệnh:\n- addacc [tài khoản] [mật khẩu]: Thêm tài khoản vào hệ thống.\n- delacc [tài khoản]: Xóa tài khoản khỏi hệ thống.\n- check [tài khoản] [mật khẩu]: Kiểm tra số câu hỏi chưa làm của tài khoản.\n- help: Hiển thị danh sách các lệnh.")
